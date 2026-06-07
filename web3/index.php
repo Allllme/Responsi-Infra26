@@ -1,35 +1,17 @@
 <?php
-
-$nama = "ganti ke namamu";
-$nim  = "ganti ke nimmu";
-
+$nama = "Alma Maida Wirastuti";
+$nim  = "H1H024021";
 ?>
-
 <!DOCTYPE html>
 <html>
 <head>
     <title>Web 3</title>
 </head>
 <body>
-
 <h1>WEB SERVER 3</h1>
-
 <hr>
-
-<p>
-Nama Praktikan:
-<strong><?= $nama ?></strong>
-</p>
-
-<p>
-NIM:
-<strong><?= $nim ?></strong>
-</p>
-
-<p>
-Container:
-<strong>WEB-WOB</strong>
-</p>
-
+<p>Nama Praktikan: <strong><?= $nama ?></strong></p>
+<p>NIM: <strong><?= $nim ?></strong></p>
+<p>Container: <strong>WEB-3</strong></p>
 </body>
 </html>
